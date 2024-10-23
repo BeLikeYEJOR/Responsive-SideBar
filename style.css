@@ -45,7 +45,7 @@ footer {
     }
     aside {
         position: fixed;
-        width: 100px;
+        width: 100vh;
         display: none;
     }
     .show {
